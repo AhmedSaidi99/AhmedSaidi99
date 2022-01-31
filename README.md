@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 
 
@@ -15,7 +15,7 @@
 
 <br />
 
-## Hola! I am [Ahmed Saidi](https://github.com/AhmedSaidi99)
+## Hola! 👋, I am [Ahmed Saidi](https://github.com/AhmedSaidi99)
 
 Ahmed Saidi, Front-end developer\learner from Libya 🇱🇾 
 - Ask me 👉 [email](mailto:s3idi.a7med@gmail.com) :)
