@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@ahmed-saidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ahmed-saidi" height="30" width="40" /></a>
+<a href="https://codepen.io/ahmed-saidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ahmed-saidi" height="30" width="40" /></a>
 <a href="https://dev.to/ahmedsaidi99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ahmedsaidi99" height="30" width="40" /></a>
 <a href="https://twitter.com/ahmed99saidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmed99saidi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmed-s-646443133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-s-646443133" height="30" width="40" /></a>
