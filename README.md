@@ -2,9 +2,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Ahmed Saidi</h1>
-<h3 align="center">ًSoftware Engineer</h3>
-<p align="center"><a href="mailto:s3idi.a7med@gmail.com">Email 👉</a></p>
+
+<p align="center"><a href="mailto:s3idi.a7med@gmail.com">Email:</a></p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AhmedSaidi99.AhmedSaidi99)
 
